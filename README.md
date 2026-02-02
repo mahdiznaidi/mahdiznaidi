@@ -153,29 +153,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Business Intelligence**: Power BI, Tableau, Data Visualization
 - **Multi-Agent Systems**: LangGraph, Orchestration, LLM-as-Judge
 
-### 🎯 **Currently Seeking**
-**6-month End-of-Studies Internship | Starting February 2026**
-
-Fields of Interest:
-- 🧠 Data Science & Machine Learning
-- 🤖 Generative AI & LLM Applications
-- 🔄 Multi-Agent Systems
-- 📊 Real-Time Data Engineering & Analytics
-
 ---
-
-## 🌟 Key Achievements
-
-- 🏢 **3 Professional Internships** - Atomic IT, BH Leasing, Enda Inter-Arab
-- 🤖 **10k+ Articles Processed** - Autonomous research agent at Atomic IT
-- 📊 **40% Faster Decisions** - Credit risk dashboards at BH Leasing
-- ⚡ **35% Time Reduction** - Automated ETL pipeline at Enda Inter-Arab
-- 🥇 **Hackathon Finalist** - INSURAI AI insurance project
-- 🎓 **Double Degree** - Dauphine + Esprit (France & Tunisia)
-- 💡 **8+ AI/ML Projects** - From research to production
-
----
-
 
 **Open to collaborations on:**
 - AI/ML research projects
