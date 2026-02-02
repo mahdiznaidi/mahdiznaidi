@@ -126,6 +126,9 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 
 ## 💼 Professional Experience
 
+<details>
+<summary><strong>📂 View experience (Python format)</strong></summary>
+
 ```python
 work_experience = {
     "Atomic IT": {
@@ -133,8 +136,8 @@ work_experience = {
         "period": "06/2024 - 11/2024",
         "location": "France",
         "achievements": [
-            "Built autonomous agent processing 10k+ scientific articles",
-            "Developed LLM-powered recommendation chatbot (LangChain + GPT-5)",
+            "Built an autonomous agent processing 10k+ scientific articles",
+            "Developed an LLM-powered recommendation chatbot (LangChain + GPT-5)",
             "Created CSRimpactGPT for enterprise CSR strategy design"
         ]
     },
@@ -153,12 +156,13 @@ work_experience = {
         "period": "06/2023 - 07/2023",
         "location": "Tunisia",
         "achievements": [
-            "Engineered ETL pipeline processing 150k records/week",
+            "Engineered an ETL pipeline processing 150k records/week",
             "Reduced data processing time by 35%",
-            "Created Power BI dashboards for business stakeholders"
+            "Developed Power BI dashboards for business stakeholders"
         ]
     }
 }
+</details>
 ```
 
 ---
