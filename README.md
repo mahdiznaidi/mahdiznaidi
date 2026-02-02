@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mehdi Znaidi — Ingénieur IA (GenAI / Data)
 
-<!--
-**mahdiznaidi/mahdiznaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je construis des systèmes IA orientés produit : agents, RAG, NLP, streaming & MLOps.
 
-Here are some ideas to get you started:
+## Projets phares
+- 🔥 **LLM-Assisted NoSQL Query Generation** — NL → requêtes Mongo/Neo4j/Redis/HBase/RDF (MCP, Streamlit, LLM)  
+  Repo: https://github.com/mahdiznaidi/LLM-Assisted_Query_Generation
+- 🤖 **Telecom Multi-Agent System** — système multi-agent support client  
+  Repo: https://github.com/mahdiznaidi/telecom-multiagent-system
+- 📈 **ML on Streams (Kafka + Spark)** — pipeline temps réel + inference/anomaly detection  
+  Repo: https://github.com/mahdiznaidi/Machine-Learning-in-Streaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python • PyTorch • LLMs/RAG • LangChain • Spark/Kafka • Docker • SQL
