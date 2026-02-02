@@ -119,7 +119,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: PostgreSQL, Pentaho, Power BI, ETL
 - **Impact**: Reduced data processing time by 35%
 
-### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mehdi-znaidi/InsurAI)
+### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mahdiznaidi/InsurAI)
 **Hackathon Project - Business Innovation**
 - Designed **AI multi-agent system** reducing claim processing time by **95%**
 - Comprehensive business model targeting Tunisian insurance market
