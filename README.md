@@ -88,7 +88,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: Python, LangChain, FAISS, HuggingFace, OpenAI GPT-5
 - **Features**: Context-aware recommendations, conversational interface
 
-### 🌱 [CSRimpactGPT](https://github.com/mehdi-znaidi/csrimpact-gpt) - *Atomic IT*
+### 🌱 [CSRimpactGPT](https://github.com/mahdiznaidi/CSRimpact_GPT) - *Atomic IT*
 **Intelligent CSR Strategy Design Assistant**
 - Designed customizable chatbot for **Corporate Social Responsibility** strategy development
 - Helps companies enhance their CSR initiatives with AI-driven insights
@@ -103,7 +103,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: Python, Scikit-Learn, XGBoost, Power BI, SQL
 - **Impact**: Improved decision-making speed by 40%
 
-### 🤝 [TelecomPlus Multi-Agent System](https://github.com/mehdi-znaidi/TelecomPlus-MultiAgent-System)
+### 🤝 [TelecomPlus Multi-Agent System](https://github.com/mahdiznaidi/telecom-agent)
 **AI-Powered Customer Support Automation**
 - Built sophisticated **multi-agent system** with Account Agent, Support Agent, and Orchestrator
 - Implemented **LangGraph** workflows for intelligent query routing
@@ -119,7 +119,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: PostgreSQL, Pentaho, Power BI, ETL
 - **Impact**: Reduced data processing time by 35%
 
-### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mehdi-znaidi/INSURAI-Hackathon)
+### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mehdi-znaidi/InsurAI)
 **Hackathon Project - Business Innovation**
 - Designed **AI multi-agent system** reducing claim processing time by **95%**
 - Comprehensive business model targeting Tunisian insurance market
