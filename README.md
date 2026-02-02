@@ -122,29 +122,6 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: Python, LangChain, GPT-5, NLP, Business Intelligence
 - **Impact**: Streamlined CSR planning for multiple enterprises
 
----
-
-## 🎓 Education
-
-**🎯 Master's in Artificial Intelligence, Systems & Data** (2024 - 2026)  
-*Paris Dauphine - PSL, France*
-
-**🎓 Double Degree: Information Systems & Decision Support** (2021 - 2024)  
-*Claude Bernard Lyon 1, France*
-
-**💼 Bachelor's in Business Intelligence** (2021 - 2024)  
-*Esprit School of Business, Tunisia*
-
----
-
-
-## 🎯 Current Focus & Interests
-
-### 🔭 **What I'm Working On**
-- 🔬 Autonomous AI agents for research analysis
-- 🤖 LLM-powered chatbots & recommendation systems
-- 📊 Real-time data streaming with Spark & Kafka
-- 🎲 Monte Carlo methods & simulations
 
 ### 💪 **Core Expertise**
 - **Generative AI**: LangChain, GPT-5, RAG, FAISS, HuggingFace
