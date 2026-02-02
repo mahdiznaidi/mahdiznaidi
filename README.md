@@ -111,13 +111,6 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: Python, LangChain, LangGraph, OpenAI GPT-4, PostgreSQL
 - **Collaboration**: Academic project with partner Mohamed
 
-### 📊 [Automated ETL Pipeline & BI Dashboards](https://github.com/mehdi-znaidi/etl-pentaho-powerbi) - *Enda Inter-Arab*
-**High-Volume Data Processing & Visualization**
-- Engineered automated **ETL pipeline** with PostgreSQL and Pentaho
-- Processed **150,000 records per week** with validation
-- Created **Power BI dashboards** providing weekly business insights
-- **Tech**: PostgreSQL, Pentaho, Power BI, ETL
-- **Impact**: Reduced data processing time by 35%
 
 ### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mahdiznaidi/InsurAI)
 **Hackathon Project - Business Innovation**
@@ -126,11 +119,6 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - **Tech**: Multi-Agent Systems, NLP, Computer Vision, Business Analytics
 - **Achievement**: Hackathon finalist
 
-### 🔒 [ISO 27001 Gap Analysis Automation](https://github.com/mehdi-znaidi/ISO27001-Gap-Analysis)
-**Automated Compliance Documentation Generator**
-- Created tool for generating **ISO 27001 audit reports**
-- Professional PDF generation with custom formatting
-- **Tech**: Python, ReportLab, Document Automation
 
 ---
 
