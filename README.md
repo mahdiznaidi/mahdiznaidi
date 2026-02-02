@@ -124,27 +124,6 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 
 ---
 
-## 💼 Professional Experience
-
-### 🔬 **Data Scientist Intern** @ [Atomic IT](https://www.atomic-it.fr/)
-**📅 06/2024 - 11/2024 | 📍 France**
-- Built autonomous agent processing **10k+ scientific articles** with semantic analysis
-- Developed LLM-powered recommendation chatbot using **LangChain + GPT-5**
-- Created **CSRimpactGPT** for enterprise CSR strategy design
-
-### 💳 **Data Analyst Intern** @ BH Leasing
-**📅 03/2024 - 06/2024 | 📍 Tunisia**
-- Built credit risk ML models for **IFRS 9 compliance** (PD & ECL calculation)
-- Designed **3 Power BI dashboards** tracking credit risk KPIs
-- Improved decision-making speed by **40%**
-
-### 📊 **Data Analyst Intern** @ Enda Inter-Arab
-**📅 06/2023 - 07/2023 | 📍 Tunisia**
-- Engineered automated **ETL pipeline** processing **150k records/week**
-- Reduced data processing time by **35%**
-- Created Power BI dashboards for business stakeholders
----
-
 ## 🎓 Education
 
 **🎯 Master's in Artificial Intelligence, Systems & Data** (2024 - 2026)  
@@ -158,19 +137,6 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-znaidi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-znaidi&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-znaidi&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus & Interests
 
@@ -210,13 +176,6 @@ Fields of Interest:
 
 ---
 
-## 📫 Let's Connect!
-
-I'm actively seeking a **Freelance opportunity** in:
-- 🧠 **Data Science & Machine Learning**
-- 🤖 **Generative AI & LLM Applications**
-- 🔄 **Multi-Agent Systems**
-- 📊 **Real-Time Data Engineering**
 
 **Open to collaborations on:**
 - AI/ML research projects
