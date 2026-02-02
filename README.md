@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Mehdi Znaidi
+# Hello my name is Mehdi Znaidi
 
-### 🎓 Master's Student in AI, Systems & Data @ Paris Dauphine | 🤖 Data Scientist | 💡 Generative AI Enthusiast
+### 🤖 AI Engineer & Data Scientist | 💡 Generative AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-znaidi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdi.znaidi@dauphine.eu)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-**Master's student in Artificial Intelligence, Systems & Data** at **Paris Dauphine** (M2, graduating 2026), with a strong foundation in **Data Science**, **Machine Learning**, and **Generative AI**. I hold a double degree from **Claude Bernard Lyon 1** and **Esprit School of Business**, combining technical expertise with business acumen.
+**AI Engineer studied at **Paris Dauphine** with a strong foundation in **Data Science**, **Machine Learning**, and **Generative AI**. I hold a double degree from **Claude Bernard Lyon 1** and **Esprit School of Business**, combining technical expertise with business acumen.
 
 With **2+ years of hands-on experience** through internships at **Atomic IT**, **BH Leasing**, and **Enda Inter-Arab**, I specialize in building end-to-end AI solutions—from data processing and modeling to deployment. Currently seeking a **6-month internship** (starting February 2026) to further contribute my expertise in Data Science, ML, or GenAI.
 
