@@ -126,45 +126,23 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 
 ## 💼 Professional Experience
 
-<details>
-<summary><strong>📂 View experience (Python format)</strong></summary>
+### 🔬 **Data Scientist Intern** @ [Atomic IT](https://www.atomic-it.fr/)
+**📅 06/2024 - 11/2024 | 📍 France**
+- Built autonomous agent processing **10k+ scientific articles** with semantic analysis
+- Developed LLM-powered recommendation chatbot using **LangChain + GPT-5**
+- Created **CSRimpactGPT** for enterprise CSR strategy design
 
-```python
-work_experience = {
-    "Atomic IT": {
-        "role": "Data Scientist Intern",
-        "period": "06/2024 - 11/2024",
-        "location": "France",
-        "achievements": [
-            "Built an autonomous agent processing 10k+ scientific articles",
-            "Developed an LLM-powered recommendation chatbot (LangChain + GPT-5)",
-            "Created CSRimpactGPT for enterprise CSR strategy design"
-        ]
-    },
-    "BH Leasing": {
-        "role": "Data Analyst Intern",
-        "period": "03/2024 - 06/2024",
-        "location": "Tunisia",
-        "achievements": [
-            "Built credit risk ML models for IFRS 9 compliance",
-            "Designed 3 Power BI dashboards tracking credit risk KPIs",
-            "Improved decision-making speed by 40%"
-        ]
-    },
-    "Enda Inter-Arab": {
-        "role": "Data Analyst Intern",
-        "period": "06/2023 - 07/2023",
-        "location": "Tunisia",
-        "achievements": [
-            "Engineered an ETL pipeline processing 150k records/week",
-            "Reduced data processing time by 35%",
-            "Developed Power BI dashboards for business stakeholders"
-        ]
-    }
-}
-</details>
-```
+### 💳 **Data Analyst Intern** @ BH Leasing
+**📅 03/2024 - 06/2024 | 📍 Tunisia**
+- Built credit risk ML models for **IFRS 9 compliance** (PD & ECL calculation)
+- Designed **3 Power BI dashboards** tracking credit risk KPIs
+- Improved decision-making speed by **40%**
 
+### 📊 **Data Analyst Intern** @ Enda Inter-Arab
+**📅 06/2023 - 07/2023 | 📍 Tunisia**
+- Engineered automated **ETL pipeline** processing **150k records/week**
+- Reduced data processing time by **35%**
+- Created Power BI dashboards for business stakeholders
 ---
 
 ## 🎓 Education
@@ -196,46 +174,27 @@ work_experience = {
 
 ## 🎯 Current Focus & Interests
 
-```python
-class MehdiZnaidi:
-    def __init__(self):
-        self.name = "Mehdi Znaidi"
-        self.role = "Data Scientist & AI Engineer"
-        self.education = "Paris Dauphine - M2 AI, Systems & Data"
-        self.location = "France"
-        self.languages = ["French (Native)", "English (Native)", "Arabic"]
-        
-    def current_work(self):
-        return [
-            "🔬 Autonomous AI agents for research analysis",
-            "🤖 LLM-powered chatbots & recommendation systems",
-            "📊 Real-time data streaming with Spark & Kafka",
-            "🎲 Monte Carlo methods & simulations"
-        ]
-    
-    def expertise(self):
-        return {
-            "Generative_AI": ["LangChain", "GPT-5", "RAG", "FAISS", "HuggingFace"],
-            "Machine_Learning": ["Scikit-Learn", "TensorFlow", "XGBoost", "Credit Risk"],
-            "Data_Engineering": ["Spark", "Hadoop", "ETL", "PostgreSQL", "Pentaho"],
-            "Visualization": ["Power BI", "Tableau"],
-            "Multi_Agent_Systems": ["LangGraph", "Orchestration", "LLM-as-Judge"]
-        }
-    
-    def seeking(self):
-        return {
-            "type": "End-of-studies internship",
-            "duration": "6 months",
-            "start_date": "February 2026",
-            "fields": ["Data Science", "Machine Learning", "Generative AI"],
-            "interests": [
-                "LLM applications",
-                "Multi-agent systems",
-                "Real-time data processing",
-                "AI for business automation"
-            ]
-        }
-```
+### 🔭 **What I'm Working On**
+- 🔬 Autonomous AI agents for research analysis
+- 🤖 LLM-powered chatbots & recommendation systems
+- 📊 Real-time data streaming with Spark & Kafka
+- 🎲 Monte Carlo methods & simulations
+
+### 💪 **Core Expertise**
+- **Generative AI**: LangChain, GPT-5, RAG, FAISS, HuggingFace
+- **Machine Learning**: Scikit-Learn, TensorFlow, XGBoost, Credit Risk Modeling
+- **Data Engineering**: Spark, Hadoop, ETL Pipelines, PostgreSQL, Pentaho
+- **Business Intelligence**: Power BI, Tableau, Data Visualization
+- **Multi-Agent Systems**: LangGraph, Orchestration, LLM-as-Judge
+
+### 🎯 **Currently Seeking**
+**6-month End-of-Studies Internship | Starting February 2026**
+
+Fields of Interest:
+- 🧠 Data Science & Machine Learning
+- 🤖 Generative AI & LLM Applications
+- 🔄 Multi-Agent Systems
+- 📊 Real-Time Data Engineering & Analytics
 
 ---
 
