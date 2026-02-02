@@ -1,14 +1,38 @@
-# Mehdi Znaidi — Ingénieur IA (GenAI / Data)
+# 👋 Mehdi Znaidi
+Ingénieur en Intelligence Artificielle & Data
 
-Je construis des systèmes IA orientés produit : agents, RAG, NLP, streaming & MLOps.
+📍 Tunis / Paris  
+📫 mehdi.znaidi@infosecurix.com  
+🔗 LinkedIn: linkedin.com/in/mehdi-znaidi/
 
-## Projets phares
-- 🔥 **LLM-Assisted NoSQL Query Generation** — NL → requêtes Mongo/Neo4j/Redis/HBase/RDF (MCP, Streamlit, LLM)  
-  Repo: https://github.com/mahdiznaidi/LLM-Assisted_Query_Generation
-- 🤖 **Telecom Multi-Agent System** — système multi-agent support client  
-  Repo: https://github.com/mahdiznaidi/telecom-multiagent-system
-- 📈 **ML on Streams (Kafka + Spark)** — pipeline temps réel + inference/anomaly detection  
-  Repo: https://github.com/mahdiznaidi/Machine-Learning-in-Streaming
+---
 
-## Stack
-Python • PyTorch • LLMs/RAG • LangChain • Spark/Kafka • Docker • SQL
+## 🧠 Compétences
+**AI/ML**: NLP, LLMs, RAG, agents intelligents  
+**Data / Streaming**: Kafka, Spark, pipelines temps réel  
+**Dev & Prod**: Docker, APIs, Actions CI
+
+---
+
+## 🚀 Projets phares
+
+### 🤖 IA / LLMs
+- **LLM-Assisted_Query_Generation** – NL → NoSQL queries (Python, LLM).  
+  *Stack:* Python, LLM, Streamlit, MCP
+- **CSRimpact_GPT** – chatbot IA business impact  
+  *Stack:* Python, NLP
+
+### ⚙️ Data / Streaming / Systèmes
+- **Machine-Learning-in-Streaming** – Kafka + Spark pipeline  
+  *Stack:* Kafka, Spark, Docker
+- **telecom-multiagent-system** – multi-agent customer support  
+  *Stack:* Python, Agents
+
+### 📊 Analytics / autres
+- **Bitcoin_prediction** – scraping & prédiction crypto
+
+---
+
+## 📌 Vision & objectifs
+Je construis des systèmes IA & data robustes qui répondent à des **problèmes réels** et je vise des postes en **IA / Data / MLOps**.
+
