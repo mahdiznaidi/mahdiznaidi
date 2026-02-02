@@ -16,13 +16,13 @@
 
 **AI Engineer studied at **Paris Dauphine** with a strong foundation in **Data Science**, **Machine Learning**, and **Generative AI**. I hold a double degree from **Claude Bernard Lyon 1** and **Esprit School of Business**, combining technical expertise with business acumen.
 
-With **2+ years of hands-on experience** through internships at **Atomic IT**, **BH Leasing**, and **Enda Inter-Arab**, I specialize in building end-to-end AI solutions—from data processing and modeling to deployment. Currently seeking a **6-month internship** (starting February 2026) to further contribute my expertise in Data Science, ML, or GenAI.
+With **2+ years of hands-on experience** through internships at **Atomic IT**, **BH Leasing**, and **Enda Inter-Arab**, I specialize in building end-to-end AI solutions—from data processing and modeling to deployment. Currently seeking a **Freelance Opportunity** to further contribute my expertise in Data Science, ML, or GenAI.
 
 - 🔭 Currently working on: **Autonomous AI agents**, **LLM-powered chatbots**, and **Multi-Agent Systems**
 - 🌱 Learning: **Advanced Spark Streaming**, **Monte Carlo Methods**, **Multi-Agent Architectures**
 - 💼 Recent experience: Built AI agents at **Atomic IT** processing **10k+ scientific articles**
 - 🎯 Expertise: **LLMs**, **RAG Systems**, **Credit Risk Modeling**, **ETL Pipelines**
-- 🌍 Languages: **French** (Native), **English** (Native), **Arabic**
+- 🌍 Languages: **French** (Native), **English** (Native)
 
 ---
 
