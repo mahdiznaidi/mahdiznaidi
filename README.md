@@ -1,12 +1,20 @@
-<div align="center">
 
-# Hello my name is Mehdi Znaidi
+
+# Mehdi Znaidi
 
 ### 🤖 AI Engineer & Data Scientist | 💡 Generative AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-znaidi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdi.znaidi@dauphine.eu)
-</div>
+
+
+---
+## 📂 Project Collection
+
+- [Generative AI Projects](https://github.com/stars/mahdiznaidi/lists/ai-generative-ai-projects)
+- [Data Science Projects](https://github.com/stars/mahdiznaidi/lists/data-science-projects)
+- [Multi-Agent Systems](https://github.com/stars/mahdiznaidi/lists/multi-agent-systems)
+- [Big Data & Streaming](https://github.com/stars/mahdiznaidi/lists/big-data-streaming)
 
 ---
 
@@ -23,14 +31,7 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 - 🌍 Languages: **French** (Native), **English** (Native)
 
 ---
-## 📂 Project Collection
 
-- [Generative AI Projects](https://github.com/stars/mahdiznaidi/lists/ai-generative-ai-projects)
-- [Data Science Projects](https://github.com/stars/mahdiznaidi/lists/data-science-projects)
-- [Multi-Agent Systems](https://github.com/stars/mahdiznaidi/lists/multi-agent-systems)
-- [Big Data & Streaming](https://github.com/stars/mahdiznaidi/lists/big-data-streaming)
-
----
 
 
 
