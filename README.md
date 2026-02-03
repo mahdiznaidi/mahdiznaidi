@@ -11,10 +11,10 @@
 ---
 ## 📂 Project Collection
 
-- [Generative AI Projects](https://github.com/stars/mahdiznaidi/lists/ai-generative-ai-projects)
-- [Data Science Projects](https://github.com/stars/mahdiznaidi/lists/data-science-projects)
-- [Multi-Agent Systems](https://github.com/stars/mahdiznaidi/lists/multi-agent-systems)
-- [Big Data & Streaming](https://github.com/stars/mahdiznaidi/lists/big-data-streaming)
+- [🤖 Generative AI Projects](https://github.com/stars/mahdiznaidi/lists/ai-generative-ai-projects)
+- [🧠 Data Science Projects](https://github.com/stars/mahdiznaidi/lists/data-science-projects)
+- [🧩 Multi-Agent Systems](https://github.com/stars/mahdiznaidi/lists/multi-agent-systems)
+- [⚡ Big Data & Streaming](https://github.com/stars/mahdiznaidi/lists/big-data-streaming)
 
 ---
 
