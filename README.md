@@ -70,58 +70,12 @@ With **2+ years of hands-on experience** through internships at **Atomic IT**, *
 
 ---
 
-## 🏆 Featured Projects
+## 📂 Project Collection
 
-### 🤖 [Autonomous Research Trends Agent](https://github.com/mehdi-znaidi/research-trends-agent) - *Atomic IT*
-**AI-Powered Scientific Literature Analysis & Review Generation**
-- Built an **autonomous AI agent** that processes **10,000+ research articles**
-- Implemented **semantic analysis** to detect emerging research trends
-- Automated **LaTeX report generation** for scientific reviews
-- **Tech**: Python, LangChain, NLP, Transformers, LaTeX, FAISS
-- **Impact**: Reduced literature review time by 80%
-
-### 🎬 [Personalized Movie/Series Recommendation Chatbot](https://github.com/mehdi-znaidi/movie-recommendation-bot) - *Atomic IT*
-**LLM-Powered Entertainment Recommendation System**
-- Developed intelligent chatbot using **LangChain** and **GPT-5**
-- Implemented **FAISS** vector database for efficient similarity search
-- Integrated **HuggingFace embeddings** for semantic understanding
-- **Tech**: Python, LangChain, FAISS, HuggingFace, OpenAI GPT-5
-- **Features**: Context-aware recommendations, conversational interface
-
-### 🤝 [TelecomPlus Multi-Agent System](https://github.com/mahdiznaidi/telecom-agent)
-**AI-Powered Customer Support Automation**
-- Built sophisticated **multi-agent system** with Account Agent, Support Agent, and Orchestrator
-- Implemented **LangGraph** workflows for intelligent query routing
-- Achieved **85%+ accuracy** using LLM-as-a-Judge evaluation
-- **Tech**: Python, LangChain, LangGraph, OpenAI GPT-4, PostgreSQL
-- **Collaboration**: Academic project with partner Mohamed
-
-### 💳 [Credit Risk Modeling & IFRS 9 Compliance](https://github.com/mehdi-znaidi/credit-risk-ifrs9) - *BH Leasing*
-**ML-Powered Probability of Default & ECL Calculation**
-- Built **machine learning models** to estimate probability of default (PD)
-- Calculated **Expected Credit Loss (ECL)** according to IFRS 9 standards
-- Designed **3 interactive Power BI dashboards** tracking key credit risk indicators
-- **Tech**: Python, Scikit-Learn, XGBoost, Power BI, SQL
-- **Impact**: Improved decision-making speed by 40%
-
-
-
-### Hackathons 
-
-### 💼 [INSURAI - AI Insurance Claims Processing](https://github.com/mahdiznaidi/InsurAI)
-**Hackathon Project - Business Innovation**
-- Designed **AI multi-agent system** reducing claim processing time by **95%**
-- Comprehensive business model targeting Tunisian insurance market
-- **Tech**: Multi-Agent Systems, NLP, Computer Vision, Business Analytics
-- **Achievement**: Hackathon finalist
-
-### 🌱 [CSRimpactGPT](https://github.com/mahdiznaidi/CSRimpact_GPT) - *Atomic IT*
-**Intelligent CSR Strategy Design Assistant**
-- Designed customizable chatbot for **Corporate Social Responsibility** strategy development
-- Helps companies enhance their CSR initiatives with AI-driven insights
-- **Tech**: Python, LangChain, GPT-5, NLP, Business Intelligence
-- **Impact**: Streamlined CSR planning for multiple enterprises
-
+- [Generative AI Projects](https://github.com/stars/mahdiznaidi/lists/ai-generative-ai-projects)
+- [Data Science Projects](https://github.com/stars/mahdiznaidi/lists/data-science-projects)
+- [Multi-Agent Systems](https://github.com/stars/mahdiznaidi/lists/multi-agent-systems)
+- [Big Data & Streaming](https://github.com/stars/mahdiznaidi/lists/big-data-streaming)
 
 ### 💪 **Core Expertise**
 - **Generative AI**: LangChain, GPT-5, RAG, FAISS, HuggingFace
